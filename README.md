@@ -1,3 +1,6 @@
+![MasterHead](https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif)
+
+
 # 💫 About Me:
 - 👋 Hi, I’m @Om-Ghosal<br>- 👀 I’m interested in web development , machine learning , AI ,deep learning and other python stuff...<br>- 🌱 I’m currently trying to learn machine learning😅 ...<br>- 💞️ I’m looking to collaborate on on basic python programs or machine learning modules...<br>- 📫 How to reach me : you can email me at leor.dragneel7004@gmail.com for anything required😁...
 
